@@ -13,7 +13,7 @@ public class Main {
 		for(int i=0;i<str.length();i++) {
 			if(str.charAt(i)==t) cnt++;  
 		}
-		return cnt;
+		return cnt;   
 	}
 	/* 
 		//향상된(개선된) for문 형태: for(자료형's 구성 변수명: 배열명) {}
