@@ -22,7 +22,7 @@ public class Main {
 			if(x==t) cnt++;
 		}  
 		return cnt;    
-	}
+	}  
 	*/
 		
 	public static void main(String[] args) {

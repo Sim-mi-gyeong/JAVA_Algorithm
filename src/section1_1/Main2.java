@@ -17,7 +17,7 @@ public class Main2 {
 			if(str.charAt(i)==c) cnt++;
 		}
 		System.out.println(cnt);
- 
+   
 	}  
 
 }
