@@ -14,13 +14,13 @@ public class Main {
 			if(str.charAt(i)==t) cnt++;  
 		}
 		return cnt;   
-	}
+	}  
 	/* 
 		//향상된(개선된) for문 형태: for(자료형's 구성 변수명: 배열명) {}
 		//배열/collection's List(ArrayList, LinkedList)만 올 수 있음 -> String의 문자 하나하나를 문자 배열로: .toCharArray() 
 		for(char x: str.toCharArray()) {
 			if(x==t) cnt++;
-		}
+		}  
 		return cnt;    
 	}
 	*/
