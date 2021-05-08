@@ -21,7 +21,7 @@ public class Main {
 		for(char x: str.toCharArray()) {
 			if(x==t) cnt++;
 		}
-		return cnt;
+		return cnt;    
 	}
 	*/
 		
