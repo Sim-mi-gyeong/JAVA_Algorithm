@@ -20,7 +20,7 @@ public class Main3 {
 				lt++;
 				rt--;
 			}
-			String tmp = String.valueOf(x); //문자 배열을 strung화(valueOf: static으로 선언된 class 메서드 -> 객체. X)
+			String tmp = String.valueOf(x); //문자 배열을 string화(valueOf: static으로 선언된 class 메서드 -> 객체. X)
 			ans.add(tmp);
 			
 		}
