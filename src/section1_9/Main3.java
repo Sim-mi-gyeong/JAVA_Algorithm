@@ -19,7 +19,7 @@ public class Main3 {
 		Scanner sc = new Scanner(System.in);
 		String str = sc.next();
 		System.out.println(obj.solution(str));
-
+ 
 	}
 
 }
