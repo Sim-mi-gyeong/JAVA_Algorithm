@@ -14,7 +14,7 @@ public class Main {
 		for(int i=0; i<str.length(); i++) {
 			if(!Character.isAlphabetic(str.charAt(i))) {
 				ans.add(str.charAt(i));
-			}
+			} 
 		}
 		if(ans.get(0)=='0') ans.remove(0);
 	
